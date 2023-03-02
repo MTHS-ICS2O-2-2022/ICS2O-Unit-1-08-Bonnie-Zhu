@@ -14,21 +14,21 @@
 }
 
 .mdl-textfield__error {
-  color: rgb(159, 238, 147);
+  color: rgb(159 238 147);
 }
 
 .page-content {
-  color: rgb(1, 1, 1);
+  color: rgb(1 1 1);
   font-family: Helvetica, Arial, sans-serif;
   font-size: 1.25rem;
 }
 
 body {
-  background-color: rgb(178, 199, 236);
+  background-color: rgb(178 199 236);
 }
 
 img {
   margin-left: 50%;
-  width:570px;
-  height:400px;
+  width: 570px;
+  height: 400px;
 }
