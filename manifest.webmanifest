@@ -1,12 +1,12 @@
 {
-  "name": "Bonnie Zhu App",
-  "short_name": "Bonnie Zhu App",
-  "description": "Github Page for Bonnie ZHu App",
-  "scope": "/ICS2O-PWA-Test/",
-  "start_url": "/ICS2O-PWA-Test/",
+  "name": "Bonnie Zhu's App",
+  "short_name": "Bonnie ZHu's App",
+  "description": "Github Page for Bonnie Zhu's App",
+  "scope": "/ICS2O-Unit-1-08-bonnie-zhu/",
+  "start_url": "/ICS2O-Unit-1-08-bonnie-zhu/",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
-  "display": "standalone", 
+  "display": "standalone",
   "icons": [
     {
       "src": "./android-chrome-192x192.png",
